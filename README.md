@@ -4,17 +4,6 @@
 
 ---
 
-## 📌 Project Details
-
-- **Subject:** Informatics Practices (065)
-- **Project Name:** Melody Hub
-- **Theme:** Analysis of Spotify
-- **Student:** Rudraksh Tank (Class XII - A)
-- **Session:** 2023–2024
-- **School:** St. Xavier’s School, Nevta
-
----
-
 ## 🎯 Objective
 
 - Analyze trends in global music consumption using Spotify data.
