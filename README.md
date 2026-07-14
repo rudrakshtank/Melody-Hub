@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Analyze trends in global music consumption using Spotify data.
 - Provide dual interfaces (Admin & User) for managing and exploring datasets.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🗃️ Data Source
+##  Data Source
 
 Datasets were taken from:
 - [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
@@ -24,7 +24,7 @@ Datasets were taken from:
 
 ---
 
-## 🧾 CSV Files
+##  CSV Files
 
 Each CSV file represents a core entity in the system:
 - `User.csv`: User ID, Name, Email, Password, Registration Date, Gender, Subscription, Review, Rating
@@ -36,15 +36,15 @@ Each CSV file represents a core entity in the system:
 
 ---
 
-## 🧑‍💻 Features
+## Features
 
-### 🔐 Admin Console
+###  Admin Console
 - Import, export CSV files
 - Add, delete, and modify records
 - Full CRUD operations on all datasets
 - Modify individual fields for precision updates
 
-### 🙋‍♀️ User Console
+###  User Console
 - Read, search, and sort records
 - Generate detailed reports based on criteria
 - Visualize data through:
@@ -54,7 +54,7 @@ Each CSV file represents a core entity in the system:
 
 ---
 
-## 📊 Technologies Used
+##  Technologies Used
 
 - **Language:** Python
 - **Libraries:** `pandas`, `matplotlib`, `time`
@@ -63,7 +63,7 @@ Each CSV file represents a core entity in the system:
 
 ---
 
-## 🔍 Functionality
+##  Functionality
 
 - **Search**: Find users by subscription, songs by year, podcasts by language, etc.
 - **Sort**: Order artists by ranking, countries by user count, etc.
