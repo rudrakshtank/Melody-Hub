@@ -59,7 +59,7 @@ Each CSV file represents a core entity in the system:
 - **Language:** Python
 - **Libraries:** `pandas`, `matplotlib`, `time`
 - **Data Storage:** CSV files
-- **IDE:** Can be run on any Python environment (IDLE, VS Code, etc.)
+- **IDE:** Can be run on any Python environment (IDLE, VS Code, Jupyter, etc.)
 
 ---
 
