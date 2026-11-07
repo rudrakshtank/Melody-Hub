@@ -1,6 +1,6 @@
 # Melody Hub 
 
-**Melody Hub** is an Informatics Practices project designed to analyze Spotify data, uncover trends in music, and explore user preferences, artist performance, and cultural patterns across countries and timelines. This Python-based software enables both admin and user operations like managing data records, visualizing insights, and generating reports.
+**Melody Hub** is an Informatics Practices project designed to Spotify data, uncover trends in music, and explore user preferences, artist performance, and cultural patterns across countries and timelines. This Python-based software enables both admin and user operations like managing data records, visualizing insights, and generating reports.
 
 ---
 
